@@ -2,7 +2,7 @@
 
 ## About
 
-This is my submission to Apple's scholarship program for the 2019 World Wide Developer Conference. I was awarded one of 350 scholarships in the world to attend the conference. The premise of the playground is to educate users on how the iPhone protects their privacy in a fun and ineractive way.
+This is my submission to Apple's scholarship program for the 2019 World Wide Developer Conference. I was awarded one of 350 scholarships in the world to attend the conference. The premise of the playground is to educate users on how the iPhone protects their privacy in a fun and interactive way.
 
 ## How it works
 
